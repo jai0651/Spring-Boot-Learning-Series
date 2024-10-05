@@ -1,4 +1,4 @@
-package org.example;
+package org.example.transaction;
 
 
 import org.springframework.boot.SpringApplication;
