@@ -25,8 +25,6 @@ This repository contains modules that showcase how to use Spring Boot for buildi
 
 ## Transaction Module
 
-> **Status**: Currently under development.
-
 The **Transaction Module** demonstrates handling financial or account-based operations with data consistency. It covers essential concepts of **transaction management** such as commit, rollback, and isolation levels.
 
 ---
